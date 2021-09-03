@@ -1,4 +1,4 @@
-# pneumothorax_segmentation
+# Pneumothorax segmentation
 
 - Download the dataset here: https://www.kaggle.com/seesee/siim-train-test
 - Run the dicom_to_npy file to create the dataset in npy format 
